@@ -1,7 +1,7 @@
 <h1 align="center">Reinaldo Galvão</h1>
 <h3 align="center">Sou estudante de programação e escolhi o PYTHON para iniciar esse caminho.</h3>
 
-- 🌱 No momento estou aprendendo **PYTHON**
+- 📝 No momento estou aprendendo **PYTHON**
 
 - 💬 Um pouco sobre mim **Iniciei nesse mundo com 43 anos, fui convidade a fazer parte da equipe de TI da empresa onde trabalho por conhecer bem o sistema TOTVS e agora estou estudando programação já trabalhando na área.**
 
