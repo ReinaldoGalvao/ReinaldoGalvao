@@ -3,21 +3,9 @@
 <h1 align="center">Reinaldo Galvão</h1>
 <h3 align="center">Sou estudante de programação e escolhi o PYTHON para iniciar esse caminho.</h3>
 
-- 🔭 Estou fazendo um projeto de bot para telegram. **Bot cobertura de preços**
-
 - 🌱 No momento estou aprendendo **PYTHON**
 
-- 👨‍💻 Todos os meus projetos estâo aqui [https://www.google.com](https://www.google.com)
-
-- 📝 Não tenho blog ainda [https://www.google.com](https://www.google.com)
-
 - 💬 Um pouco sobre mim **Iniciei nesse mundo com 43 anos, fui convidade a fazer parte da equipe de TI da empresa onde trabalho por conhecer bem o sistema TOTVS e agora estou estudando programação já trabalhando na área.**
-
-- 📫 Meu e-mail **reinaldo@grupoofs.com.br**
-
-- 📄 Minhas esperiencias [https://www.google.com](https://www.google.com)
-
-- ⚡ Engraçado **Dev Véio é o xurume da bolha tech**
 
 <h3 align="left">Me encontre:</h3>
 <p align="left">
