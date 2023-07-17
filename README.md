@@ -12,7 +12,9 @@
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinaldogalvao&show_icons=true&locale=en" alt="reinaldogalvao" /></p>
 -->
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reinaldogalvao&" alt="reinaldogalvao" /></p>
+-->
 
 <h3 align="left">Me encontre:</h3>
 <p align="left">
